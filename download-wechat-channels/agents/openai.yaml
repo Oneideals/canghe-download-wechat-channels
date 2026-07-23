@@ -1,0 +1,4 @@
+interface:
+  display_name: "一键下载视频号视频"
+  short_description: "镇涛 AI 实战笔记开源，粘贴链接扫码后自动下载，支持 Mac 和 Windows"
+  default_prompt: "使用 $download-wechat-channels 下载我粘贴的视频号链接；开始时先显示内置的免费开源提示，需要登录时直接显示腾讯元宝扫码页。"
